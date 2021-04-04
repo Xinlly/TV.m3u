@@ -844,15 +844,15 @@ http://149.129.100.78/gztv.php?id=zhonghe
 https://iptv--iptv.repl.co/Chinese/zhonghe/
 #EXTINF:-1 tvg-id="GuangShuiXinWenZongHe.cn" tvg-name="广水新闻综合" tvg-country="CN" tvg-language="Chinese" tvg-logo="http://ku.90sjimg.com/element_pic/17/12/31/2ec189f5167bd017e47acd441800487b.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广水新闻综合
 http://guangshui.live.tempsource.cjyun.org/videotmp/s10146-GSXW.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="guangxi.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
 http://121.31.30.90:8085/ysten-business/live/guangxistv/1.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="guangxi.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
 http://121.31.30.90:8085/ysten-business/live/guangxistv/yst.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="guangxi.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
 http://223.82.250.72/live/guangxistv/1.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="guangxi.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
 http://ivi.bupt.edu.cn/hls/gxtv.m3u8
-#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
+#EXTINF:-1 tvg-id="43" tvg-name="广西卫视" tvg-country="CN" tvg-language="Chinese" tvg-logo="guangxi.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西卫视
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/guangxistv/1.m3u8
 #EXTINF:-1 tvg-id="GuangXiLuYouGuangBo.cn" tvg-name="广西旅游广播" tvg-country="CN" tvg-language="Chinese" tvg-logo="" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",广西旅游广播
 http://media.bbrtv.com:1935/live/_definst_/lypl/chunklist_w1542235389.m3u8
