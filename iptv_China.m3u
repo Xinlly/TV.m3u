@@ -1,3 +1,4 @@
+#EXTM3U
 #EXTINF:-1 tvg-id="BlueMeiJuPinDao.cn" tvg-name="Blue 美剧频道" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://parco-zh.github.io/demo/BLUE.png" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",Blue 美剧频道
 http://210.210.155.35:80/session/676c25ba-724e-11e9-834b-8ac28bf32f5a/dr9445/h/h16/02.m3u8
 #EXTINF:-1 tvg-id="CCTV8.cn" tvg-name="CCTV-8" tvg-country="CN" tvg-language="Chinese" tvg-logo="https://i.imgur.com/OkLtNrC.jpg" tvg-url="http://epg.51zmt.top:8000/e.xml.gz" group-title="China",CCTV-8
